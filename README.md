@@ -8,4 +8,4 @@
 
 *Uso do comando git restore
 *Comando git push para levar para o github
-*Alterei essa linha no GitHub e quero mandar para meu repositório local.
+*Alterei essa linha no GitHub e quero mandar para meu repositório local com o comando git pull.
